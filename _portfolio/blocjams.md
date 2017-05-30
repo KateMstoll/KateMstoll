@@ -8,7 +8,7 @@ short-description: BlocJams is a web based application built to look and act sim
 ---
 
 {:.center}
-![]({{ site.baseurl }}/img/blojams.png)
+![]({{ site.baseurl }}/img/blocjams.png)
 
 ## Explanation
 
